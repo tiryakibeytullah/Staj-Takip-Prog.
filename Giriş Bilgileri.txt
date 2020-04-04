@@ -1,0 +1,7 @@
+Müdür Girişi :
+
+mail : ismail@gmail.com
+şifre : ismail
+durum : Müdür
+
+Geri kalan Öğretmen,Öğrenci girişlerini WindowsFormsApplication1 > bin > Debug içerisinden uygulama1.accdb dosyasından bulabilirsiniz.
